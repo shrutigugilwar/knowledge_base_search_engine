@@ -52,7 +52,6 @@ Note: The current implementation returns a placeholder synthesis from retrieved 
 - `backend/app/ingest.py` – Ingestion utilities (PDF/TXT) + chunking
 - `backend/app/retriever.py` – Embedding + vector store wrapper
 - `backend/app/models/schemas.py` – Pydantic request/response models
-- `docs/` – Place demo assets, notes, and any evaluation materials
 
 ## Evaluation Focus
 - Retrieval accuracy
